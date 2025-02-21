@@ -1,0 +1,2 @@
+s='amrit' 
+print(s)
